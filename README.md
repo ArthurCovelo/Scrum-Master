@@ -12,7 +12,7 @@ A escolha da abordagem ágil sobre a tradicional foi motivada pelo contexto alta
 
 O framework escolhido para implementar a metodologia ágil foi o Scrum. Sua simplicidade, leveza e eficácia comprovada foram fundamentais para a gestão do projeto e o desenvolvimento de software.
 <br>
-[![Scrum](https://img.shields.io/badge/Scrum-%2341B883.svg?style=for-the-badge&logo=scrum-alliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-%2341B883.svg?style=for-the-badge&logo=scrum-alliance&logoColor=white)
 
 ## Inovação e Resultados Finais
 
