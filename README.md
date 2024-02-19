@@ -1,8 +1,8 @@
-# Sony - Sucesso com Scrum
+# Resenha Crítica: Sony - Sucesso com Scrum
 
 ## Descrição do Projeto
 
-Este repositório documenta o caso de sucesso da Sony ao adotar a metodologia ágil Scrum em um projeto de desenvolvimento de software no Stuttgart Technology Center. O projeto visava criar uma arquitetura de GPU para melhorias avançadas na qualidade de vídeo em tempo real, em colaboração com fornecedores de placas gráficas e a Sony no Japão.
+Este repositório contém a resenha crítica do caso de sucesso da Sony ao adotar a metodologia ágil Scrum em um projeto de desenvolvimento de software no Stuttgart Technology Center. O projeto visava criar uma arquitetura de GPU para melhorias avançadas na qualidade de vídeo em tempo real, em colaboração com fornecedores de placas gráficas e a Sony no Japão.
 
 ## Motivação para a Abordagem Ágil
 
@@ -11,9 +11,7 @@ A escolha da abordagem ágil sobre a tradicional foi motivada pelo contexto alta
 ## Framework Utilizado
 
 O framework escolhido para implementar a metodologia ágil foi o Scrum. Sua simplicidade, leveza e eficácia comprovada foram fundamentais para a gestão do projeto e o desenvolvimento de software.
-
-![Scrum](https://img.shields.io/badge/Scrum-%2341B883.svg?style=for-the-badge&logo=scrum-alliance&logoColor=white)
-
+ ![Scrum](https://img.shields.io/badge/Scrum-%2341B883.svg?style=for-the-badge&logo=scrum-alliance&logoColor=white)
 ## Inovação e Resultados Finais
 
 O projeto resultou em uma arquitetura única de GPU para melhorias de qualidade de vídeo em tempo real, demonstrando inovação no campo. A metodologia Scrum contribuiu para a eficiência da equipe, promovendo a colaboração internacional e garantindo a entrega de resultados de alta qualidade.
@@ -28,8 +26,11 @@ Apesar do sucesso, reconhecemos a resistência inicial e identificamos oportunid
 - **Colaboração Internacional:** A adaptação cultural e negociações com parceiros japoneses foram cruciais para o sucesso da implementação do Scrum.
 - **Reconhecimento e Estabilidade:** A equipe foi reconhecida como uma das mais eficazes, evidenciando o impacto positivo contínuo da metodologia.
 
-## Contato
+<div align="center">
 
-Para mais informações, entre em contato com:
+### 📫 Entre em Contato
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurcovelo/)
 [![E-mail](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurcovelo@gmail.com)
+
+</div>
